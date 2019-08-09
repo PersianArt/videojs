@@ -59,7 +59,7 @@ class Settings extends Component {
 		return (
 			<Fragment>
 				<button onMouseEnter={() => this.menu.classList.remove('vjs-hidden')} className="vjs-menu-button vjs-menu-button-popup vjs-button" type="button" title="Settings" aria-disabled="false" aria-haspopup="true" aria-expanded="false">
-					<span aria-hidden="true" className="vjs-icon-placeholder vjs-icon-forward-10"/>
+					<span aria-hidden="true" className="vjs-icon-placeholder vjs-icon-cog"/>
 					<span className="vjs-control-text" aria-live="polite">Settings</span>
 				</button>
 				<div ref={el => this.menu = el} className="vjs-menu">
