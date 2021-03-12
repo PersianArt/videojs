@@ -42,7 +42,7 @@
     "raf": "3.4.0",
     "react": "^16.8.6",
     "react-bootstrap-daterangepicker": "^4.1.0",
-    "react-dev-utils": "^5.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.4.2",
     "react-lottie": "^1.2.3",
     "react-sortable-hoc-rtl": "^1.0.3",
